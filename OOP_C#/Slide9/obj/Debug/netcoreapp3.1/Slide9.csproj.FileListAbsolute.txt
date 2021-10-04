@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\bin\Debug\netcoreapp3.1\Slide9.exe
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\bin\Debug\netcoreapp3.1\Slide9.deps.json
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\bin\Debug\netcoreapp3.1\Slide9.runtimeconfig.json
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\bin\Debug\netcoreapp3.1\Slide9.runtimeconfig.dev.json
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\bin\Debug\netcoreapp3.1\Slide9.dll
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\bin\Debug\netcoreapp3.1\Slide9.pdb
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\obj\Debug\netcoreapp3.1\Slide9.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\obj\Debug\netcoreapp3.1\Slide9.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\obj\Debug\netcoreapp3.1\Slide9.AssemblyInfo.cs
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\obj\Debug\netcoreapp3.1\Slide9.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\obj\Debug\netcoreapp3.1\Slide9.dll
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\obj\Debug\netcoreapp3.1\Slide9.pdb
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Slide9\obj\Debug\netcoreapp3.1\Slide9.genruntimeconfig.cache
