@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\bin\Debug\netcoreapp3.1\Interface_35.exe
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\bin\Debug\netcoreapp3.1\Interface_35.deps.json
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\bin\Debug\netcoreapp3.1\Interface_35.runtimeconfig.json
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\bin\Debug\netcoreapp3.1\Interface_35.runtimeconfig.dev.json
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\bin\Debug\netcoreapp3.1\Interface_35.dll
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\bin\Debug\netcoreapp3.1\Interface_35.pdb
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\obj\Debug\netcoreapp3.1\Interface_35.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\obj\Debug\netcoreapp3.1\Interface_35.AssemblyInfo.cs
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\obj\Debug\netcoreapp3.1\Interface_35.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\obj\Debug\netcoreapp3.1\Interface_35.dll
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\obj\Debug\netcoreapp3.1\Interface_35.pdb
+C:\Users\dell\source\repos\VD_BUOI3_11_7\Interface_35\obj\Debug\netcoreapp3.1\Interface_35.genruntimeconfig.cache
